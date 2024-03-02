@@ -26,6 +26,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://komarev.com/ghpvc/?username=itsdavidmandal)
+![](https://komarev.com/ghpvc/?username=itsdavidmandal&color=brightgreen)
 
 
