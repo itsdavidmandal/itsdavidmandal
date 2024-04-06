@@ -25,7 +25,7 @@ I am David Ramovich Mandal
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itsdavidmandal&theme=transparent)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsdavidmandal&theme=transparent)(https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsdavidmandal&theme=transparent)
 
 
 
