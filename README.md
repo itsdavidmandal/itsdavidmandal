@@ -2,7 +2,22 @@
 <br>
 
 ## 💫 About Me:
-I am David Ramovich Mandal
+Hi there! I'm David, an enthusiastic learner and developer with a passion for science, business, philosophy, and technology.
+
+## 🌱 I'm currently exploring:
+
+Backend web development
+Enhancing my skills in the tech industry
+## 🔭 Some of my recent projects include:
+
+A financial planning app to help users make informed purchasing decisions.
+A QR code generator for easy content sharing.
+A weather app using the OpenWeatherMap API.
+## ⚡ Fun fact: I led a team in building a modal e-commerce website for printers as part of my coursework!
+
+## 📫 Let's connect! You can find me on LinkedIn (linkedin.com/in/itsdavidmandal) or reach out via email at davidramovichmandal@gmail.com.
+
+Feel free to check out my repositories and let me know if you'd like to collaborate on something exciting!
 
 
 
