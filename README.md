@@ -1,23 +1,23 @@
 <img src="https://camo.githubusercontent.com/ab7302a0087ca1d1a7f7d2f7797a7c60356b8a259bfdc572c92042d0adb749b6/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a78347251466a666930694b33675331542e676966" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"/>
 <br>
 
-## 💫 About Me:
-Hi there! I'm David, an enthusiastic learner and developer with a passion for science, business, philosophy, and technology.
+## 💫 About Me:<br>
+Hi there! I'm David, an enthusiastic learner and developer with a passion for science, business, philosophy, and technology. <br>
 
-## 🌱 I'm currently exploring:
+## 🌱 I'm currently exploring:<br>
 
-Backend web development
-Enhancing my skills in the tech industry
-## 🔭 Some of my recent projects include:
+Backend web development<br>
+Enhancing my skills in the tech industry<br>
+## 🔭 Some of my recent projects include: <br>
 
-A financial planning app to help users make informed purchasing decisions.
-A QR code generator for easy content sharing.
-A weather app using the OpenWeatherMap API.
-## ⚡ Fun fact: I led a team in building a modal e-commerce website for printers as part of my coursework!
+A financial planning app to help users make informed purchasing decisions.<br>
+A QR code generator for easy content sharing.<br>
+A weather app using the OpenWeatherMap API.<br>
+## ⚡ Fun fact: I led a team in building a modal e-commerce website for printers as part of my coursework! <br>
 
-## 📫 Let's connect! You can find me on LinkedIn (linkedin.com/in/itsdavidmandal) or reach out via email at davidramovichmandal@gmail.com.
+## 📫 Let's connect! You can find me on LinkedIn (linkedin.com/in/itsdavidmandal) or reach out via email at davidramovichmandal@gmail.com. <br>
 
-Feel free to check out my repositories and let me know if you'd like to collaborate on something exciting!
+Feel free to check out my repositories and let me know if you'd like to collaborate on something exciting!<br>
 
 
 
