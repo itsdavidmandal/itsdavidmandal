@@ -8,12 +8,7 @@ Hi there! I'm David, an enthusiastic learner and developer with a passion for sc
 
 Backend web development<br>
 Enhancing my skills in the tech industry<br>
-## 🔭 Some of my recent projects include: <br>
 
-A financial planning app to help users make informed purchasing decisions.<br>
-A QR code generator for easy content sharing.<br>
-A weather app using the OpenWeatherMap API.<br>
-## ⚡ Fun fact: I led a team in building a modal e-commerce website for printers as part of my coursework! <br>
 
 ## 📫 Let's connect! You can find me on LinkedIn (linkedin.com/in/itsdavidmandal) or reach out via email at davidramovichmandal@gmail.com. <br>
 
